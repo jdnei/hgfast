@@ -59,4 +59,4 @@ jobs:
           # 1. GitHub Secrets 里已经设置了 GITLAB_TOKEN
           # 2. GitLab 上已经提前创建好同名空仓库
           # 3. GitLab 仓库默认分支是 main，或者允许推送 main 分支
-          git push --force https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/jdnei/${{ github.event.repository.name }}.git main
+          # git push --force https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/jdnei/${{ github.event.repository.name }}.git main
