@@ -1,4 +1,4 @@
-# HGfast 机场官方地址(2026年9月7日更新)
+# HGfast 机场官方地址(2026年9月8日更新)
 HGfast机场官网地址<br>
 最新地址：[hg.hgfastapp.com](https://to.iix.im/hg01)<br>
 官方永久地址：[hgfast.me](https://hgfast.me/register.html?code=a845f0ac)
