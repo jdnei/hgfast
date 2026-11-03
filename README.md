@@ -1,7 +1,10 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 # HGfast 机场官方地址(2026年11月2日更新)
 HGfast机场官网地址<br>
 最新地址：[hg.hgfastapp.com](https://to.iix.im/hg01)<br>
-官方永久地址：[hgfast.me](https://hgfast.me/register.html?code=a845f0ac)
+官方永久地址：[hgfast.me](https://to.iix.im/hg02)
 ## 邀请码
 ```bash
 a845f0ac
