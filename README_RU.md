@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт HGfast VPN (обновлено 8 ноября 2026)
+# Официальный сайт HGfast VPN (обновлено 9 ноября 2026)
 
 Официальный сайт VPN-сервиса HGfast<br>
 Новый адрес: [hg.hgfastapp.com](https://to.iix.im/hg01)<br>
