@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی VPN اچ‌جی‌فست (HGfast) -(به‌روزرسانی 12 نوامبر 2026)
+# آدرس رسمی VPN اچ‌جی‌فست (HGfast) -(به‌روزرسانی 13 نوامبر 2026)
 وب‌سایت رسمی VPN اچ‌جی‌فست (HGfast)<br>
 جدیدترین آدرس: [hg.hgfastapp.com](https://to.iix.im/hg01)<br>
 آدرس رسمی دائمی: [hgfast.me](https://to.iix.im/hg02)<br>
